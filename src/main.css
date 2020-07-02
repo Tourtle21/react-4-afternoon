@@ -81,3 +81,10 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+.back-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
